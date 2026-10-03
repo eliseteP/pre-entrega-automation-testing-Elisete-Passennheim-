@@ -1,2 +1,1 @@
-# pre-entrega-automation-testing-Elisete-Passennheim-
-# Ingresar el carpeta PreEntrega 
+# pre-entrega-automation-testing-Elisete-Passennheim
